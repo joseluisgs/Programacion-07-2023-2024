@@ -1,0 +1,12 @@
+<ArrayList>
+    <Alumno numero="1" nombre="Juan" repetidor="false"/>
+    <Alumno numero="2" nombre="Ana" repetidor="true"/>
+    <Alumno numero="3" nombre="Luis" repetidor="false"/>
+    <Alumno numero="4" nombre="María" repetidor="true"/>
+    <Alumno numero="5" nombre="Pedro" repetidor="false"/>
+    <Alumno numero="6" nombre="Lucía" repetidor="true"/>
+    <Alumno numero="7" nombre="Marta" repetidor="false"/>
+    <Alumno numero="8" nombre="Javier" repetidor="true"/>
+    <Alumno numero="9" nombre="Sara" repetidor="false"/>
+    <Alumno numero="10" nombre="Pablo" repetidor="true"/>
+</ArrayList>

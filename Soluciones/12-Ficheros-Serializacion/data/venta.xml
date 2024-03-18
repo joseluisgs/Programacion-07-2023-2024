@@ -1,0 +1,9 @@
+<Venta id="1" fecha="2021-01-01">
+    <Cliente nombre="Pepe" email="pepe@pepe.com"/>
+    <LineaVenta cantidad="1" precio="1000.0">
+        <Producto nombre="Laptop" precio="1000.0"/>
+    </LineaVenta>
+    <LineaVenta cantidad="2" precio="20.0">
+        <Producto nombre="Ratón" precio="20.0"/>
+    </LineaVenta>
+</Venta>

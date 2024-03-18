@@ -1,0 +1,26 @@
+{
+    "id": 1,
+    "fecha": "2021-01-01",
+    "cliente": {
+        "nombre": "Pepe",
+        "email": "pepe@pepe.com"
+    },
+    "lineas": [
+        {
+            "producto": {
+                "nombre": "Laptop",
+                "precio": 1000.0
+            },
+            "cantidad": 1,
+            "precio": 1000.0
+        },
+        {
+            "producto": {
+                "nombre": "Ratón",
+                "precio": 20.0
+            },
+            "cantidad": 2,
+            "precio": 20.0
+        }
+    ]
+}

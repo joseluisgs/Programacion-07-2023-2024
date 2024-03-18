@@ -1,0 +1,22 @@
+Matricula,Nombre,Patron,Carga,Fecha,Tipo,Capacidad,Experiencia,Activo
+ATN-001,El Veloz,Gustavo Diaz,5000.0,2020-03-15,Atunero,15000.0,,
+ATN-002,La Rapida,Marisol Quevedo,4500.0,2019-07-21,Atunero,16000.0,,
+MAR-001,Concha Fina,Adrian Gomez,0.0,2018-05-18,Marisquero,,4,
+MAR-002,Estrella Marina,Lia Ramirez,2000.0,2021-12-01,Marisquero,,6,
+MTN-001,Titan de los Mares,Sergio Soto,0.0,2022-01-30,Mantenimiento,,,true
+MTN-002,Sol Naciente,Beatriz Molina,0.0,2021-04-25,Mantenimiento,,,false
+ATN-003,Horizonte,Francisco Lomas,3500.0,2020-09-05,Atunero,14000.0,,
+MAR-003,Poseidon,Jorge Paz,1750.0,2023-01-22,Marisquero,,5,
+MTN-003,Oceano Tranquilo,Eduardo Nunez,0.0,2022-07-08,Mantenimiento,,,true
+ATN-004,Rayo del Mar,Carmen Rios,2500.0,2018-11-03,Atunero,13500.0,,
+MAR-004,Brisa Marina,Lucas Herrero,750.0,2019-06-19,Marisquero,,7,
+MTN-004,Viento del Oeste,Natalia Ortiz,0.0,2021-12-21,Mantenimiento,,,false
+ATN-005,Triton,Victor Salas,6000.0,2020-02-27,Atunero,15500.0,,
+MAR-005,Arena Dorada,Luisa Jimenez,500.0,2020-07-13,Marisquero,,8,
+MTN-005,Espuma de Mar,Daniel Torres,0.0,2023-03-05,Mantenimiento,,,true
+ATN-006,Perla Negra,Julia Contreras,0.0,2021-05-26,Atunero,16500.0,,
+MAR-006,Caracola del Sur,Emilio Navarro,250.0,2022-09-30,Marisquero,,9,
+MTN-006,Guardian del Puerto,Jorge Castillo,0.0,2020-12-19,Mantenimiento,,,false
+ATN-007,Oceano Profundo,Adriana Moya,4200.0,2018-08-14,Atunero,17000.0,,
+MTN-007,Refugio Seguro,Patricia Soler,0.0,2020-10-03,Mantenimiento,,,true
+MAR-007,Sirena Cantarina,Roberto Alvarez,1750.0,2021-04-07,Marisquero,,12,

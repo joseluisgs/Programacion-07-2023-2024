@@ -1,0 +1,52 @@
+[
+    {
+        "numero": 1,
+        "nombre": "Juan",
+        "repetidor": false
+    },
+    {
+        "numero": 2,
+        "nombre": "Ana",
+        "repetidor": true
+    },
+    {
+        "numero": 3,
+        "nombre": "Luis",
+        "repetidor": false
+    },
+    {
+        "numero": 4,
+        "nombre": "María",
+        "repetidor": true
+    },
+    {
+        "numero": 5,
+        "nombre": "Pedro",
+        "repetidor": false
+    },
+    {
+        "numero": 6,
+        "nombre": "Lucía",
+        "repetidor": true
+    },
+    {
+        "numero": 7,
+        "nombre": "Marta",
+        "repetidor": false
+    },
+    {
+        "numero": 8,
+        "nombre": "Javier",
+        "repetidor": true
+    },
+    {
+        "numero": 9,
+        "nombre": "Sara",
+        "repetidor": false
+    },
+    {
+        "numero": 10,
+        "nombre": "Pablo",
+        "repetidor": true
+    }
+]

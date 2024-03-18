@@ -1,0 +1,166 @@
+{
+    "docentes": [
+        {
+            "nombre": "Profesor 1",
+            "modulo": "Programación"
+        },
+        {
+            "nombre": "Profesor 2",
+            "modulo": "Entornos"
+        },
+        {
+            "nombre": "Profesor 3",
+            "modulo": "Programación"
+        },
+        {
+            "nombre": "Profesor 4",
+            "modulo": "Entornos"
+        },
+        {
+            "nombre": "Profesor 5",
+            "modulo": "Programación"
+        },
+        {
+            "nombre": "Profesor 6",
+            "modulo": "Entornos"
+        },
+        {
+            "nombre": "Profesor 7",
+            "modulo": "Programación"
+        },
+        {
+            "nombre": "Profesor 8",
+            "modulo": "Entornos"
+        },
+        {
+            "nombre": "Profesor 9",
+            "modulo": "Programación"
+        },
+        {
+            "nombre": "Profesor 10",
+            "modulo": "Entornos"
+        }
+    ],
+    "estudiantes": [
+        {
+            "nombre": "Alumno 1",
+            "edad": "18"
+        },
+        {
+            "nombre": "Alumno 2",
+            "edad": "20"
+        },
+        {
+            "nombre": "Alumno 3",
+            "edad": "22"
+        },
+        {
+            "nombre": "Alumno 4",
+            "edad": "24"
+        },
+        {
+            "nombre": "Alumno 5",
+            "edad": "26"
+        },
+        {
+            "nombre": "Alumno 6",
+            "edad": "28"
+        },
+        {
+            "nombre": "Alumno 7",
+            "edad": "30"
+        },
+        {
+            "nombre": "Alumno 8",
+            "edad": "32"
+        },
+        {
+            "nombre": "Alumno 9",
+            "edad": "34"
+        },
+        {
+            "nombre": "Alumno 10",
+            "edad": "19"
+        },
+        {
+            "nombre": "Alumno 11",
+            "edad": "21"
+        },
+        {
+            "nombre": "Alumno 12",
+            "edad": "23"
+        },
+        {
+            "nombre": "Alumno 13",
+            "edad": "25"
+        },
+        {
+            "nombre": "Alumno 14",
+            "edad": "27"
+        },
+        {
+            "nombre": "Alumno 15",
+            "edad": "29"
+        },
+        {
+            "nombre": "Alumno 16",
+            "edad": "31"
+        },
+        {
+            "nombre": "Alumno 17",
+            "edad": "33"
+        },
+        {
+            "nombre": "Alumno 18",
+            "edad": "35"
+        },
+        {
+            "nombre": "Alumno 19",
+            "edad": "37"
+        },
+        {
+            "nombre": "Alumno 20",
+            "edad": "39"
+        },
+        {
+            "nombre": "Alumno 21",
+            "edad": "18"
+        },
+        {
+            "nombre": "Alumno 22",
+            "edad": "20"
+        },
+        {
+            "nombre": "Alumno 23",
+            "edad": "22"
+        },
+        {
+            "nombre": "Alumno 24",
+            "edad": "24"
+        },
+        {
+            "nombre": "Alumno 25",
+            "edad": "26"
+        },
+        {
+            "nombre": "Alumno 26",
+            "edad": "28"
+        },
+        {
+            "nombre": "Alumno 27",
+            "edad": "30"
+        },
+        {
+            "nombre": "Alumno 28",
+            "edad": "32"
+        },
+        {
+            "nombre": "Alumno 29",
+            "edad": "34"
+        },
+        {
+            "nombre": "Alumno 30",
+            "edad": "36"
+        }
+    ]
+}

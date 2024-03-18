@@ -1,0 +1,233 @@
+[
+    {
+        "matricula": "ATN-001",
+        "nombre": "El Veloz",
+        "patron": "Gustavo Diaz",
+        "cargaActual": "5000.0",
+        "fechaIncorporacion": "2020-03-15",
+        "tipo": "Atunero",
+        "capacidad": "15000.0",
+        "experiencia": null,
+        "activo": null
+    },
+    {
+        "matricula": "ATN-002",
+        "nombre": "La Rapida",
+        "patron": "Marisol Quevedo",
+        "cargaActual": "4500.0",
+        "fechaIncorporacion": "2019-07-21",
+        "tipo": "Atunero",
+        "capacidad": "16000.0",
+        "experiencia": null,
+        "activo": null
+    },
+    {
+        "matricula": "MAR-001",
+        "nombre": "Concha Fina",
+        "patron": "Adrian Gomez",
+        "cargaActual": "0.0",
+        "fechaIncorporacion": "2018-05-18",
+        "tipo": "Marisquero",
+        "capacidad": null,
+        "experiencia": "4",
+        "activo": null
+    },
+    {
+        "matricula": "MAR-002",
+        "nombre": "Estrella Marina",
+        "patron": "Lia Ramirez",
+        "cargaActual": "2000.0",
+        "fechaIncorporacion": "2021-12-01",
+        "tipo": "Marisquero",
+        "capacidad": null,
+        "experiencia": "6",
+        "activo": null
+    },
+    {
+        "matricula": "MTN-001",
+        "nombre": "Titan de los Mares",
+        "patron": "Sergio Soto",
+        "cargaActual": "0.0",
+        "fechaIncorporacion": "2022-01-30",
+        "tipo": "Mantenimiento",
+        "capacidad": null,
+        "experiencia": null,
+        "activo": "true"
+    },
+    {
+        "matricula": "MTN-002",
+        "nombre": "Sol Naciente",
+        "patron": "Beatriz Molina",
+        "cargaActual": "0.0",
+        "fechaIncorporacion": "2021-04-25",
+        "tipo": "Mantenimiento",
+        "capacidad": null,
+        "experiencia": null,
+        "activo": "false"
+    },
+    {
+        "matricula": "ATN-003",
+        "nombre": "Horizonte",
+        "patron": "Francisco Lomas",
+        "cargaActual": "3500.0",
+        "fechaIncorporacion": "2020-09-05",
+        "tipo": "Atunero",
+        "capacidad": "14000.0",
+        "experiencia": null,
+        "activo": null
+    },
+    {
+        "matricula": "MAR-003",
+        "nombre": "Poseidon",
+        "patron": "Jorge Paz",
+        "cargaActual": "1750.0",
+        "fechaIncorporacion": "2023-01-22",
+        "tipo": "Marisquero",
+        "capacidad": null,
+        "experiencia": "5",
+        "activo": null
+    },
+    {
+        "matricula": "MTN-003",
+        "nombre": "Oceano Tranquilo",
+        "patron": "Eduardo Nunez",
+        "cargaActual": "0.0",
+        "fechaIncorporacion": "2022-07-08",
+        "tipo": "Mantenimiento",
+        "capacidad": null,
+        "experiencia": null,
+        "activo": "true"
+    },
+    {
+        "matricula": "ATN-004",
+        "nombre": "Rayo del Mar",
+        "patron": "Carmen Rios",
+        "cargaActual": "2500.0",
+        "fechaIncorporacion": "2018-11-03",
+        "tipo": "Atunero",
+        "capacidad": "13500.0",
+        "experiencia": null,
+        "activo": null
+    },
+    {
+        "matricula": "MAR-004",
+        "nombre": "Brisa Marina",
+        "patron": "Lucas Herrero",
+        "cargaActual": "750.0",
+        "fechaIncorporacion": "2019-06-19",
+        "tipo": "Marisquero",
+        "capacidad": null,
+        "experiencia": "7",
+        "activo": null
+    },
+    {
+        "matricula": "MTN-004",
+        "nombre": "Viento del Oeste",
+        "patron": "Natalia Ortiz",
+        "cargaActual": "0.0",
+        "fechaIncorporacion": "2021-12-21",
+        "tipo": "Mantenimiento",
+        "capacidad": null,
+        "experiencia": null,
+        "activo": "false"
+    },
+    {
+        "matricula": "ATN-005",
+        "nombre": "Triton",
+        "patron": "Victor Salas",
+        "cargaActual": "6000.0",
+        "fechaIncorporacion": "2020-02-27",
+        "tipo": "Atunero",
+        "capacidad": "15500.0",
+        "experiencia": null,
+        "activo": null
+    },
+    {
+        "matricula": "MAR-005",
+        "nombre": "Arena Dorada",
+        "patron": "Luisa Jimenez",
+        "cargaActual": "500.0",
+        "fechaIncorporacion": "2020-07-13",
+        "tipo": "Marisquero",
+        "capacidad": null,
+        "experiencia": "8",
+        "activo": null
+    },
+    {
+        "matricula": "MTN-005",
+        "nombre": "Espuma de Mar",
+        "patron": "Daniel Torres",
+        "cargaActual": "0.0",
+        "fechaIncorporacion": "2023-03-05",
+        "tipo": "Mantenimiento",
+        "capacidad": null,
+        "experiencia": null,
+        "activo": "true"
+    },
+    {
+        "matricula": "ATN-006",
+        "nombre": "Perla Negra",
+        "patron": "Julia Contreras",
+        "cargaActual": "0.0",
+        "fechaIncorporacion": "2021-05-26",
+        "tipo": "Atunero",
+        "capacidad": "16500.0",
+        "experiencia": null,
+        "activo": null
+    },
+    {
+        "matricula": "MAR-006",
+        "nombre": "Caracola del Sur",
+        "patron": "Emilio Navarro",
+        "cargaActual": "250.0",
+        "fechaIncorporacion": "2022-09-30",
+        "tipo": "Marisquero",
+        "capacidad": null,
+        "experiencia": "9",
+        "activo": null
+    },
+    {
+        "matricula": "MTN-006",
+        "nombre": "Guardian del Puerto",
+        "patron": "Jorge Castillo",
+        "cargaActual": "0.0",
+        "fechaIncorporacion": "2020-12-19",
+        "tipo": "Mantenimiento",
+        "capacidad": null,
+        "experiencia": null,
+        "activo": "false"
+    },
+    {
+        "matricula": "ATN-007",
+        "nombre": "Oceano Profundo",
+        "patron": "Adriana Moya",
+        "cargaActual": "4200.0",
+        "fechaIncorporacion": "2018-08-14",
+        "tipo": "Atunero",
+        "capacidad": "17000.0",
+        "experiencia": null,
+        "activo": null
+    },
+    {
+        "matricula": "MTN-007",
+        "nombre": "Refugio Seguro",
+        "patron": "Patricia Soler",
+        "cargaActual": "0.0",
+        "fechaIncorporacion": "2020-10-03",
+        "tipo": "Mantenimiento",
+        "capacidad": null,
+        "experiencia": null,
+        "activo": "true"
+    },
+    {
+        "matricula": "MAR-007",
+        "nombre": "Sirena Cantarina",
+        "patron": "Roberto Alvarez",
+        "cargaActual": "1750.0",
+        "fechaIncorporacion": "2021-04-07",
+        "tipo": "Marisquero",
+        "capacidad": null,
+        "experiencia": "12",
+        "activo": null
+    }
+]

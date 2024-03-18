@@ -1,0 +1,222 @@
+[
+    {
+        "matricula": "ABC123",
+        "marca": "Ford",
+        "modelo": "Fiesta",
+        "color": "Azul",
+        "precio": "10000",
+        "fecha_matriculacion": "2021-01-15",
+        "vendido": "true",
+        "createdAt": "2024-09-02T18:37:45",
+        "updatedAt": "2024-09-02T18:37:45"
+    },
+    {
+        "matricula": "DEF456",
+        "marca": "Chevrolet",
+        "modelo": "Cruze",
+        "color": "Blanco",
+        "precio": "15000",
+        "fecha_matriculacion": "2020-06-20",
+        "vendido": "false",
+        "createdAt": "2024-09-02T18:37:45",
+        "updatedAt": "2024-09-02T18:37:45"
+    },
+    {
+        "matricula": "GHI789",
+        "marca": "Toyota",
+        "modelo": "Corolla",
+        "color": "Plata",
+        "precio": "20000",
+        "fecha_matriculacion": "2019-03-10",
+        "vendido": "false",
+        "createdAt": "2024-09-02T18:37:45",
+        "updatedAt": "2024-09-02T18:37:45"
+    },
+    {
+        "matricula": "JKL012",
+        "marca": "Honda",
+        "modelo": "Civic",
+        "color": "Negro",
+        "precio": "18000",
+        "fecha_matriculacion": "2022-11-05",
+        "vendido": "false",
+        "createdAt": "2024-09-02T18:37:45",
+        "updatedAt": "2024-09-02T18:37:45"
+    },
+    {
+        "matricula": "MNO345",
+        "marca": "Hyundai",
+        "modelo": "Elantra",
+        "color": "Rojo",
+        "precio": "17000",
+        "fecha_matriculacion": "2023-07-12",
+        "vendido": "false",
+        "createdAt": "2024-09-02T18:37:45",
+        "updatedAt": "2024-09-02T18:37:45"
+    },
+    {
+        "matricula": "PQR678",
+        "marca": "Toyota",
+        "modelo": "Yaris",
+        "color": "Amarillo",
+        "precio": "12000",
+        "fecha_matriculacion": "2018-09-30",
+        "vendido": "false",
+        "createdAt": "2024-09-02T18:37:45",
+        "updatedAt": "2024-09-02T18:37:45"
+    },
+    {
+        "matricula": "STU901",
+        "marca": "Ford",
+        "modelo": "Focus",
+        "color": "Verde",
+        "precio": "14000",
+        "fecha_matriculacion": "2021-12-25",
+        "vendido": "false",
+        "createdAt": "2024-09-02T18:37:45",
+        "updatedAt": "2024-09-02T18:37:45"
+    },
+    {
+        "matricula": "VWX234",
+        "marca": "Chevrolet",
+        "modelo": "Spark",
+        "color": "Azul",
+        "precio": "9000",
+        "fecha_matriculacion": "2022-03-01",
+        "vendido": "false",
+        "createdAt": "2024-09-02T18:37:45",
+        "updatedAt": "2024-09-02T18:37:45"
+    },
+    {
+        "matricula": "YZA567",
+        "marca": "Hyundai",
+        "modelo": "Sonata",
+        "color": "Gris",
+        "precio": "22000",
+        "fecha_matriculacion": "2023-08-18",
+        "vendido": "false",
+        "createdAt": "2024-09-02T18:37:45",
+        "updatedAt": "2024-09-02T18:37:45"
+    },
+    {
+        "matricula": "BCD890",
+        "marca": "Honda",
+        "modelo": "Accord",
+        "color": "Negro",
+        "precio": "25000",
+        "fecha_matriculacion": "2022-10-10",
+        "vendido": "false",
+        "createdAt": "2024-09-02T18:37:45",
+        "updatedAt": "2024-09-02T18:37:45"
+    },
+    {
+        "matricula": "EFG123",
+        "marca": "Toyota",
+        "modelo": "RAV4",
+        "color": "Blanco",
+        "precio": "28000",
+        "fecha_matriculacion": "2020-02-15",
+        "vendido": "false",
+        "createdAt": "2024-09-02T18:37:45",
+        "updatedAt": "2024-09-02T18:37:45"
+    },
+    {
+        "matricula": "HIJ456",
+        "marca": "Ford",
+        "modelo": "Explorer",
+        "color": "Plata",
+        "precio": "35000",
+        "fecha_matriculacion": "2019-08-20",
+        "vendido": "false",
+        "createdAt": "2024-09-02T18:37:45",
+        "updatedAt": "2024-09-02T18:37:45"
+    },
+    {
+        "matricula": "KLM789",
+        "marca": "Chevrolet",
+        "modelo": "Traverse",
+        "color": "Azul",
+        "precio": "40000",
+        "fecha_matriculacion": "2021-05-05",
+        "vendido": "false",
+        "createdAt": "2024-09-02T18:37:45",
+        "updatedAt": "2024-09-02T18:37:45"
+    },
+    {
+        "matricula": "NOP012",
+        "marca": "Hyundai",
+        "modelo": "Santa Fe",
+        "color": "Rojo",
+        "precio": "32000",
+        "fecha_matriculacion": "2018-12-10",
+        "vendido": "false",
+        "createdAt": "2024-09-02T18:37:45",
+        "updatedAt": "2024-09-02T18:37:45"
+    },
+    {
+        "matricula": "QRS345",
+        "marca": "Honda",
+        "modelo": "Pilot",
+        "color": "Verde",
+        "precio": "38000",
+        "fecha_matriculacion": "2023-02-25",
+        "vendido": "false",
+        "createdAt": "2024-09-02T18:37:45",
+        "updatedAt": "2024-09-02T18:37:45"
+    },
+    {
+        "matricula": "TUV678",
+        "marca": "Toyota",
+        "modelo": "Highlander",
+        "color": "Amarillo",
+        "precio": "42000",
+        "fecha_matriculacion": "2017-12-30",
+        "vendido": "false",
+        "createdAt": "2024-09-02T18:37:45",
+        "updatedAt": "2024-09-02T18:37:45"
+    },
+    {
+        "matricula": "WXY901",
+        "marca": "Ford",
+        "modelo": "Escape",
+        "color": "Gris",
+        "precio": "30000",
+        "fecha_matriculacion": "2023-09-15",
+        "vendido": "false",
+        "createdAt": "2024-09-02T18:37:45",
+        "updatedAt": "2024-09-02T18:37:45"
+    },
+    {
+        "matricula": "ZAB234",
+        "marca": "Chevrolet",
+        "modelo": "Equinox",
+        "color": "Negro",
+        "precio": "34000",
+        "fecha_matriculacion": "2022-04-20",
+        "vendido": "false",
+        "createdAt": "2024-09-02T18:37:45",
+        "updatedAt": "2024-09-02T18:37:45"
+    },
+    {
+        "matricula": "CDE567",
+        "marca": "Hyundai",
+        "modelo": "Tucson",
+        "color": "Blanco",
+        "precio": "26000",
+        "fecha_matriculacion": "2021-11-05",
+        "vendido": "false",
+        "createdAt": "2024-09-02T18:37:45",
+        "updatedAt": "2024-09-02T18:37:45"
+    },
+    {
+        "matricula": "FGH890",
+        "marca": "Honda",
+        "modelo": "CR-V",
+        "color": "Plata",
+        "precio": "30000",
+        "fecha_matriculacion": "2020-07-12",
+        "vendido": "true",
+        "createdAt": "2024-09-02T18:37:45",
+        "updatedAt": "2024-09-02T18:37:45"
+    }
+]
